@@ -1,0 +1,631 @@
+position,name,damages,physical_damage,magical_damage,pure_damage
+support-safe,Zeus,33 367,8,91,1
+support-safe,Techies,32 517,8,91,1
+support-safe,Sniper,26 458,41,58,1
+support-safe,Gyrocopter,25 946,17,82,1
+support-safe,Venomancer,24 928,22,77,1
+support-safe,Timbersaw,24 843,12,7,81
+support-safe,Spectre,24 837,41,34,26
+support-safe,Razor,24 719,53,45,1
+support-safe,Queen Of Pain,24 573,20,52,28
+support-safe,Warlock,24 466,18,69,12
+support-safe,Nyx Assassin,24 402,14,63,22
+support-safe,Lina,24 233,22,76,1
+support-safe,Sand King,23 992,21,78,1
+support-safe,Witch Doctor,23 945,9,47,44
+support-safe,Clinkz,23 737,97,1,1
+support-safe,Leshrac,23 723,10,50,40
+support-safe,Viper,23 718,36,63,1
+support-safe,Axe,23 657,48,2,50
+support-safe,Skywrath Mage,23 423,11,87,1
+support-safe,Natures Prophet,23 366,37,61,1
+support-safe,Pugna,23 316,10,88,1
+support-safe,Arc Warden,23 243,41,58,1
+support-safe,Necrophos,23 023,12,86,1
+support-safe,Earthshaker,22 997,4,94,1
+support-safe,Enigma,22 978,9,68,23
+support-safe,Ursa,22 942,88,11,1
+support-safe,Phoenix,22 771,19,79,1
+support-safe,Huskar,22 372,32,66,1
+support-safe,Outworld Destroyer,22 277,24,47,30
+support-safe,Death Prophet,22 153,46,52,2
+support-safe,Phantom Assassin,22 069,97,1,1
+support-safe,Juggernaut,21 982,60,39,1
+support-safe,Lich,21 663,11,88,2
+support-safe,Terrorblade,21 599,28,70,2
+support-safe,Luna,21 439,22,76,2
+support-safe,Shadow Fiend,21 365,22,76,2
+support-safe,Bloodseeker,21 333,30,33,38
+support-safe,Ember Spirit,21 246,51,48,2
+support-safe,Weaver,21 199,75,23,2
+support-safe,Underlord,21 154,17,81,2
+support-safe,Dark Seer,20 855,10,88,2
+support-safe,Drow Ranger,20 712,97,2,2
+support-safe,Hoodwink,20 632,59,39,2
+support-safe,Tiny,20 598,28,71,2
+support-safe,Centaur Warrunner,20 562,38,60,2
+support-safe,Muerta,20 533,26,73,2
+support-safe,Rubick,20 510,19,77,4
+support-safe,Medusa,20 454,48,50,2
+support-safe,Snapfire,20 380,22,77,2
+support-safe,Clockwerk,20 106,18,80,2
+support-safe,Ancient Apparition,20 015,22,77,2
+support-safe,Visage,19 960,43,56,2
+support-safe,Troll Warlord,19 916,76,23,2
+support-safe,Wraith King,19 916,54,40,6
+support-safe,Jakiro,19 847,7,91,2
+support-safe,Tinker,19 454,13,58,28
+support-safe,Legion Commander,19 383,49,49,2
+support-safe,Ogre Magi,19 325,12,86,2
+support-safe,Kez,19 155,55,31,14
+support-safe,Earth Spirit,19 070,22,76,2
+support-safe,Invoker,18 962,31,54,15
+support-safe,Puck,18 951,27,71,2
+support-safe,Dark Willow,18 918,24,75,2
+support-safe,Spirit Breaker,18 913,34,64,2
+support-safe,Beastmaster,18 763,23,75,2
+support-safe,Elder Titan,18 759,70,27,3
+support-safe,Silencer,18 591,33,65,2
+support-safe,Ringmaster,18 459,13,86,2
+support-safe,Void Spirit,18 451,27,72,2
+support-safe,Riki,18 348,65,33,2
+support-safe,Keeper of the Light,18 276,13,85,2
+support-safe,Chaos Knight,17 844,74,24,2
+support-safe,Windranger,17 819,47,51,2
+support-safe,Primal Beast,17 593,29,69,2
+support-safe,Pudge,17 495,13,46,40
+support-safe,Storm Spirit,17 454,41,57,2
+support-safe,Shadow Demon,17 370,13,85,2
+support-safe,Enchantress,17 330,46,2,52
+support-safe,Batrider,17 321,16,82,2
+support-safe,Mars,16 978,41,57,2
+support-safe,Dawnbreaker,16 948,38,60,2
+support-safe,Crystal Maiden,16 750,13,85,2
+support-safe,Bounty Hunter,16 612,45,53,2
+support-safe,Tidehunter,16 592,45,53,2
+support-safe,Monkey King,16 528,85,13,2
+support-safe,Pangolier,16 527,96,2,2
+support-safe,Phantom Lancer,16 447,65,33,2
+support-safe,Doom,16 440,24,57,20
+support-safe,Kunkka,16 339,35,63,2
+support-safe,Bristleback,16 087,96,2,2
+support-safe,Bane,15 807,20,2,78
+support-safe,Brewmaster,15 617,30,68,2
+support-safe,Winter Wyvern,15 611,27,71,2
+support-safe,Slark,15 355,75,23,2
+support-safe,Mirana,15 301,38,59,2
+support-safe,Lycan,15 284,59,39,2
+support-safe,Lion,15 244,17,81,2
+support-safe,Morphling,15 178,41,57,2
+support-safe,Dragon Knight,15 111,51,47,2
+support-safe,Undying,15 067,57,41,2
+support-safe,Treant Protector,14 995,21,77,2
+support-safe,Anti Mage,14 900,67,31,2
+support-safe,Night Stalker,14 692,54,44,2
+support-safe,Shadow Shaman,14 681,68,30,2
+support-safe,Grimstroke,14 516,18,80,2
+support-safe,Vengeful Spirit,14 469,27,71,2
+support-safe,Disruptor,14 287,20,77,2
+support-safe,Magnus,14 083,15,82,2
+support-safe,Templar Assassin,14 003,88,2,9
+support-safe,Tusk,13 404,54,43,2
+support-safe,Slardar,13 041,95,2,2
+support-safe,Marci,12 903,60,38,3
+support-safe,Alchemist,12 813,92,5,3
+support-safe,Lifestealer,11 795,61,37,3
+support-safe,Broodmother,11 721,65,33,3
+support-safe,Meepo,11 685,51,37,12
+support-safe,Lone Druid,11 576,41,56,3
+support-safe,Faceless Void,11 400,51,46,3
+support-safe,Dazzle,11 224,94,3,3
+support-safe,Sven,11 222,46,51,3
+support-safe,Oracle,10 112,20,77,3
+support-safe,Abaddon,9 934,17,80,3
+support-safe,Chen,8 365,75,21,4
+support-safe,Omniknight,8 317,26,4,70
+support-safe,Naga Siren,6 533,49,46,5
+support-safe,Io,5 956,64,30,5
+core-safe,Bristleback,40 537,98,1,1
+core-safe,Sniper,37 701,61,38,1
+core-safe,Gyrocopter,37 116,66,33,1
+core-safe,Zeus,36 960,9,90,1
+core-safe,Razor,36 335,62,36,1
+core-safe,Spectre,36 320,45,28,27
+core-safe,Muerta,36 224,28,71,1
+core-safe,Necrophos,35 272,11,87,1
+core-safe,Ember Spirit,34 129,67,32,1
+core-safe,Techies,34 025,25,74,1
+core-safe,Bloodseeker,33 732,32,42,26
+core-safe,Medusa,33 711,58,40,1
+core-safe,Legion Commander,33 420,56,42,2
+core-safe,Axe,33 310,42,2,56
+core-safe,Phantom Assassin,33 236,98,1,1
+core-safe,Wraith King,33 117,62,29,9
+core-safe,Dark Willow,33 074,37,62,1
+core-safe,Clinkz,33 073,98,1,1
+core-safe,Lina,32 988,40,59,1
+core-safe,Viper,32 821,45,54,1
+core-safe,Kez,32 696,60,30,10
+core-safe,Arc Warden,32 577,61,37,1
+core-safe,Ursa,32 494,90,9,1
+core-safe,Weaver,32 424,79,20,1
+core-safe,Earthshaker,32 203,7,92,1
+core-safe,Leshrac,32 182,10,60,30
+core-safe,Outworld Destroyer,32 143,26,33,40
+core-safe,Timbersaw,31 855,14,8,78
+core-safe,Juggernaut,31 567,61,37,1
+core-safe,Drow Ranger,31 284,97,1,1
+core-safe,Riki,31 002,68,31,1
+core-safe,Natures Prophet,30 942,46,53,1
+core-safe,Windranger,30 722,48,51,1
+core-safe,Templar Assassin,30 719,87,3,10
+core-safe,Sand King,30 714,26,73,1
+core-safe,Void Spirit,30 571,44,55,1
+core-safe,Marci,30 541,72,27,1
+core-safe,Monkey King,30 472,90,9,1
+core-safe,Queen Of Pain,30 322,27,48,25
+core-safe,Terrorblade,30 306,67,32,1
+core-safe,Tiny,30 278,57,42,1
+core-safe,Elder Titan,30 090,81,18,2
+core-safe,Phantom Lancer,30 025,73,26,1
+core-safe,Silencer,29 834,42,57,1
+core-safe,Dragon Knight,29 655,68,31,1
+core-safe,Shadow Fiend,29 101,66,32,1
+core-safe,Lifestealer,29 067,67,32,1
+core-safe,Luna,28 972,37,62,1
+core-safe,Sven,28 949,70,29,1
+core-safe,Huskar,28 802,40,58,1
+core-safe,Chaos Knight,28 732,88,11,1
+core-safe,Pudge,28 717,16,64,20
+core-safe,Troll Warlord,28 638,77,22,1
+core-safe,Beastmaster,28 579,31,67,1
+core-safe,Alchemist,28 492,77,22,1
+core-safe,Puck,28 094,32,66,1
+core-safe,Warlock,28 077,18,69,13
+core-safe,Ogre Magi,28 036,31,68,1
+core-safe,Skywrath Mage,27 817,11,87,1
+core-safe,Hoodwink,27 594,69,30,1
+core-safe,Death Prophet,27 508,48,50,1
+core-safe,Snapfire,27 334,45,54,1
+core-safe,Winter Wyvern,27 303,48,51,1
+core-safe,Dawnbreaker,27 058,61,37,2
+core-safe,Abaddon,26 921,45,53,2
+core-safe,Invoker,26 919,50,40,10
+core-safe,Centaur Warrunner,26 809,44,54,2
+core-safe,Ancient Apparition,26 655,30,69,2
+core-safe,Witch Doctor,26 652,10,47,43
+core-safe,Morphling,26 599,62,37,2
+core-safe,Vengeful Spirit,26 548,57,42,2
+core-safe,Magnus,26 531,56,43,2
+core-safe,Tidehunter,26 511,66,32,2
+core-safe,Nyx Assassin,26 496,16,63,21
+core-safe,Venomancer,26 176,30,68,2
+core-safe,Clockwerk,26 128,24,74,2
+core-safe,Lycan,25 926,90,8,2
+core-safe,Kunkka,25 885,67,32,2
+core-safe,Storm Spirit,25 706,47,52,2
+core-safe,Phoenix,25 608,21,78,2
+core-safe,Visage,25 441,57,42,2
+core-safe,Dark Seer,25 166,15,84,2
+core-safe,Anti Mage,24 926,73,25,2
+core-safe,Earth Spirit,24 909,25,73,2
+core-safe,Tinker,24 850,13,48,39
+core-safe,Pugna,24 744,9,89,2
+core-safe,Underlord,24 319,29,69,2
+core-safe,Lion,24 261,26,72,2
+core-safe,Brewmaster,24 256,40,58,2
+core-safe,Bounty Hunter,24 220,61,37,2
+core-safe,Lich,24 178,12,87,2
+core-safe,Mirana,24 013,62,37,2
+core-safe,Night Stalker,23 995,67,31,2
+core-safe,Slark,23 940,78,20,2
+core-safe,Enigma,23 846,9,67,24
+core-safe,Pangolier,23 844,95,3,2
+core-safe,Broodmother,23 815,73,26,2
+core-safe,Enchantress,23 685,46,2,52
+core-safe,Rubick,23 679,24,73,3
+core-safe,Spirit Breaker,23 406,40,58,2
+core-safe,Doom,23 365,31,53,16
+core-safe,Primal Beast,23 261,26,72,2
+core-safe,Mars,23 092,59,39,2
+core-safe,Keeper of the Light,22 840,13,85,2
+core-safe,Faceless Void,22 815,57,41,2
+core-safe,Batrider,22 794,22,76,2
+core-safe,Jakiro,22 370,11,87,2
+core-safe,Slardar,22 324,96,2,2
+core-safe,Naga Siren,21 961,79,19,2
+core-safe,Undying,21 899,58,40,2
+core-safe,Meepo,21 875,58,29,13
+core-safe,Tusk,20 891,64,34,2
+core-safe,Lone Druid,20 794,37,61,2
+core-safe,Bane,19 967,32,2,66
+core-safe,Grimstroke,19 649,16,82,2
+core-safe,Crystal Maiden,19 583,16,82,2
+core-safe,Shadow Demon,19 352,20,78,2
+core-safe,Dazzle,18 463,96,2,2
+core-safe,Treant Protector,18 389,34,64,2
+core-safe,Ringmaster,17 863,14,84,2
+core-safe,Shadow Shaman,17 482,67,31,2
+core-safe,Io,17 406,35,63,2
+core-safe,Omniknight,17 329,40,4,56
+core-safe,Disruptor,15 929,21,77,2
+core-safe,Oracle,15 109,21,77,3
+core-safe,Chen,10 525,80,16,4
+core-off,Zeus,37 005,8,91,1
+core-off,Bristleback,34 429,98,1,1
+core-off,Techies,33 229,12,86,1
+core-off,Necrophos,32 139,11,88,1
+core-off,Razor,32 022,57,41,1
+core-off,Axe,31 817,42,2,56
+core-off,Spectre,31 304,42,32,26
+core-off,Queen Of Pain,30 798,21,54,26
+core-off,Sniper,30 653,51,47,1
+core-off,Leshrac,30 278,9,59,32
+core-off,Sand King,30 263,23,75,1
+core-off,Clockwerk,30 206,24,74,1
+core-off,Gyrocopter,30 184,38,60,1
+core-off,Legion Commander,29 851,52,46,2
+core-off,Timbersaw,29 797,13,8,79
+core-off,Bloodseeker,29 049,31,38,31
+core-off,Lina,28 779,25,73,1
+core-off,Phoenix,28 730,21,77,1
+core-off,Earthshaker,28 657,6,93,1
+core-off,Viper,28 625,41,58,1
+core-off,Warlock,28 437,18,70,13
+core-off,Elder Titan,28 280,80,18,2
+core-off,Arc Warden,28 256,54,45,1
+core-off,Wraith King,28 042,59,33,8
+core-off,Outworld Destroyer,28 028,25,39,36
+core-off,Witch Doctor,27 936,9,49,42
+core-off,Death Prophet,27 779,46,53,1
+core-off,Skywrath Mage,27 778,10,88,1
+core-off,Ember Spirit,27 582,58,40,1
+core-off,Nyx Assassin,27 374,15,64,21
+core-off,Earth Spirit,27 329,25,74,2
+core-off,Venomancer,27 298,29,70,1
+core-off,Pugna,27 277,8,90,1
+core-off,Huskar,27 202,39,60,1
+core-off,Dark Willow,27 091,31,67,1
+core-off,Centaur Warrunner,26 964,41,57,2
+core-off,Tiny,26 942,43,56,1
+core-off,Weaver,26 914,77,22,1
+core-off,Kez,26 824,59,29,12
+core-off,Clinkz,26 809,97,1,1
+core-off,Ursa,26 597,89,10,1
+core-off,Muerta,26 354,27,72,1
+core-off,Natures Prophet,26 325,42,57,1
+core-off,Winter Wyvern,26 260,46,52,1
+core-off,Ogre Magi,26 197,20,78,1
+core-off,Kunkka,26 156,54,45,2
+core-off,Medusa,26 097,52,47,1
+core-off,Phantom Assassin,26 005,97,1,1
+core-off,Beastmaster,25 532,29,70,1
+core-off,Dawnbreaker,25 468,56,42,2
+core-off,Terrorblade,25 396,48,50,1
+core-off,Puck,25 366,32,66,1
+core-off,Silencer,25 241,39,60,1
+core-off,Juggernaut,25 169,61,38,1
+core-off,Primal Beast,25 158,25,73,2
+core-off,Vengeful Spirit,24 984,50,49,1
+core-off,Tinker,24 946,11,50,39
+core-off,Ancient Apparition,24 909,28,71,1
+core-off,Windranger,24 895,55,44,1
+core-off,Monkey King,24 859,90,8,1
+core-off,Hoodwink,24 822,65,34,1
+core-off,Lich,24 784,11,88,1
+core-off,Enigma,24 772,10,70,21
+core-off,Abaddon,24 761,43,55,2
+core-off,Void Spirit,24 741,38,61,1
+core-off,Snapfire,24 668,38,61,1
+core-off,Pudge,24 577,15,61,24
+core-off,Enchantress,24 460,44,2,55
+core-off,Shadow Fiend,24 371,36,62,1
+core-off,Rubick,24 363,22,75,3
+core-off,Riki,24 354,68,31,1
+core-off,Luna,24 201,30,69,2
+core-off,Chaos Knight,24 179,86,13,2
+core-off,Dark Seer,24 043,12,86,2
+core-off,Troll Warlord,23 897,78,21,2
+core-off,Undying,23 765,58,40,2
+core-off,Drow Ranger,23 583,97,2,2
+core-off,Underlord,23 484,21,78,2
+core-off,Dragon Knight,23 376,61,38,2
+core-off,Jakiro,23 367,10,89,2
+core-off,Keeper of the Light,23 334,12,86,2
+core-off,Spirit Breaker,23 179,38,61,2
+core-off,Visage,22 965,48,50,2
+core-off,Pangolier,22 900,97,2,2
+core-off,Invoker,22 660,37,50,13
+core-off,Templar Assassin,22 634,87,2,11
+core-off,Alchemist,22 587,77,22,2
+core-off,Bounty Hunter,22 542,51,47,2
+core-off,Sven,22 490,65,34,2
+core-off,Brewmaster,22 331,29,70,2
+core-off,Marci,22 106,68,31,2
+core-off,Storm Spirit,22 040,45,53,2
+core-off,Phantom Lancer,22 035,70,28,2
+core-off,Batrider,22 031,20,79,2
+core-off,Lifestealer,21 762,70,29,2
+core-off,Lion,21 603,23,76,2
+core-off,Bane,21 496,28,2,71
+core-off,Night Stalker,21 260,64,34,2
+core-off,Lycan,20 803,75,23,2
+core-off,Tidehunter,20 762,58,41,2
+core-off,Doom,20 754,29,53,18
+core-off,Tusk,20 674,62,36,2
+core-off,Shadow Demon,20 594,15,84,2
+core-off,Morphling,20 543,51,47,2
+core-off,Anti Mage,20 505,70,28,2
+core-off,Mars,20 467,51,47,2
+core-off,Crystal Maiden,20 308,13,85,2
+core-off,Slark,20 117,77,21,2
+core-off,Mirana,19 671,50,48,2
+core-off,Slardar,19 604,96,2,2
+core-off,Magnus,19 440,31,67,2
+core-off,Grimstroke,19 436,15,83,2
+core-off,Broodmother,19 426,69,29,2
+core-off,Ringmaster,19 135,13,85,2
+core-off,Dazzle,18 976,96,2,2
+core-off,Treant Protector,18 886,32,67,2
+core-off,Omniknight,18 363,39,3,58
+core-off,Shadow Shaman,17 842,67,31,2
+core-off,Lone Druid,17 822,31,67,2
+core-off,Meepo,17 586,54,33,13
+core-off,Disruptor,17 441,20,78,2
+core-off,Faceless Void,17 018,58,40,2
+core-off,Oracle,16 654,19,79,2
+core-off,Naga Siren,15 765,75,22,2
+core-off,Io,15 589,30,68,2
+core-off,Chen,9 379,79,17,4
+support-off,Zeus,33 462,8,91,1
+support-off,Techies,32 491,7,92,1
+support-off,Sniper,26 345,39,60,1
+support-off,Axe,26 258,45,2,53
+support-off,Gyrocopter,25 968,16,83,1
+support-off,Spectre,25 945,39,36,24
+support-off,Sand King,25 381,21,78,1
+support-off,Warlock,25 297,18,70,12
+support-off,Venomancer,24 762,22,77,1
+support-off,Razor,24 699,53,46,1
+support-off,Queen Of Pain,24 553,19,53,28
+support-off,Nyx Assassin,24 273,14,64,22
+support-off,Lina,24 146,21,77,1
+support-off,Witch Doctor,24 123,9,46,45
+support-off,Pugna,23 805,9,89,1
+support-off,Leshrac,23 773,10,50,40
+support-off,Timbersaw,23 550,13,6,81
+support-off,Skywrath Mage,23 143,11,88,1
+support-off,Necrophos,23 098,12,87,1
+support-off,Viper,23 077,36,63,1
+support-off,Clinkz,23 076,97,1,1
+support-off,Arc Warden,22 927,37,61,1
+support-off,Phoenix,22 825,19,80,1
+support-off,Natures Prophet,22 824,37,62,1
+support-off,Enigma,22 799,8,69,23
+support-off,Earthshaker,22 473,4,94,1
+support-off,Ember Spirit,22 313,50,49,2
+support-off,Huskar,22 248,33,65,2
+support-off,Outworld Destroyer,22 093,23,47,30
+support-off,Death Prophet,22 070,45,53,2
+support-off,Legion Commander,22 061,50,48,2
+support-off,Lich,21 949,10,88,2
+support-off,Luna,21 514,18,81,2
+support-off,Centaur Warrunner,21 465,39,59,2
+support-off,Clockwerk,21 180,19,79,2
+support-off,Underlord,21 160,17,81,2
+support-off,Ursa,21 099,87,11,2
+support-off,Hoodwink,20 860,60,39,2
+support-off,Terrorblade,20 802,26,72,2
+support-off,Weaver,20 737,75,24,2
+support-off,Dark Seer,20 734,10,89,2
+support-off,Phantom Assassin,20 627,97,2,2
+support-off,Ogre Magi,20 608,12,86,2
+support-off,Ancient Apparition,20 587,22,76,2
+support-off,Bloodseeker,20 521,26,34,40
+support-off,Snapfire,20 272,21,78,2
+support-off,Shadow Fiend,20 262,19,79,2
+support-off,Rubick,20 258,19,78,4
+support-off,Elder Titan,20 141,71,26,3
+support-off,Muerta,20 057,26,73,2
+support-off,Wraith King,20 047,53,41,6
+support-off,Jakiro,20 046,7,91,2
+support-off,Visage,19 756,42,57,2
+support-off,Tiny,19 738,26,72,2
+support-off,Medusa,19 710,48,50,2
+support-off,Bristleback,19 709,96,2,2
+support-off,Tinker,19 642,12,58,30
+support-off,Puck,19 607,26,72,2
+support-off,Drow Ranger,19 386,97,2,2
+support-off,Dark Willow,19 194,24,75,2
+support-off,Beastmaster,19 141,23,76,2
+support-off,Silencer,19 115,34,64,2
+support-off,Earth Spirit,19 112,22,76,2
+support-off,Kez,19 038,54,32,14
+support-off,Invoker,18 782,30,54,15
+support-off,Spirit Breaker,18 780,34,64,2
+support-off,Troll Warlord,18 723,75,23,2
+support-off,Enchantress,18 476,43,2,55
+support-off,Keeper of the Light,18 465,12,86,2
+support-off,Ringmaster,18 374,12,86,2
+support-off,Primal Beast,18 234,28,70,2
+support-off,Windranger,18 182,47,51,2
+support-off,Juggernaut,18 017,57,41,2
+support-off,Riki,17 948,65,33,2
+support-off,Void Spirit,17 632,27,71,2
+support-off,Chaos Knight,17 571,77,21,2
+support-off,Shadow Demon,17 535,12,86,2
+support-off,Pudge,17 418,14,46,40
+support-off,Dawnbreaker,17 418,39,59,2
+support-off,Crystal Maiden,17 412,12,86,2
+support-off,Mars,16 923,42,56,2
+support-off,Batrider,16 743,15,83,2
+support-off,Tidehunter,16 721,46,52,2
+support-off,Doom,16 688,24,56,20
+support-off,Storm Spirit,16 649,41,57,2
+support-off,Pangolier,16 496,96,2,2
+support-off,Bounty Hunter,16 405,43,55,2
+support-off,Bane,16 343,18,2,80
+support-off,Dragon Knight,16 307,52,46,2
+support-off,Undying,16 302,57,41,2
+support-off,Winter Wyvern,16 301,29,69,2
+support-off,Phantom Lancer,16 189,62,36,2
+support-off,Kunkka,15 984,35,63,2
+support-off,Night Stalker,15 826,56,42,2
+support-off,Monkey King,15 771,84,14,2
+support-off,Mirana,15 573,38,60,2
+support-off,Lion,15 364,17,81,2
+support-off,Treant Protector,15 293,21,76,2
+support-off,Brewmaster,15 192,30,68,2
+support-off,Templar Assassin,15 121,88,3,9
+support-off,Morphling,14 868,35,63,2
+support-off,Shadow Shaman,14 847,67,30,2
+support-off,Vengeful Spirit,14 770,27,71,2
+support-off,Disruptor,14 633,19,79,2
+support-off,Grimstroke,14 566,17,81,2
+support-off,Lycan,14 479,57,41,2
+support-off,Magnus,14 461,15,83,2
+support-off,Anti Mage,14 283,65,33,2
+support-off,Marci,13 969,59,38,2
+support-off,Tusk,13 854,52,46,2
+support-off,Slark,13 784,74,23,2
+support-off,Slardar,13 742,95,2,2
+support-off,Alchemist,12 925,92,5,3
+support-off,Broodmother,12 830,65,33,3
+support-off,Sven,11 879,48,50,3
+support-off,Lone Druid,11 718,41,57,3
+support-off,Lifestealer,11 297,56,41,3
+support-off,Dazzle,11 218,94,3,3
+support-off,Oracle,11 159,19,79,3
+support-off,Abaddon,10 698,17,80,3
+support-off,Faceless Void,10 482,48,49,3
+support-off,Meepo,9 197,49,39,12
+support-off,Omniknight,8 709,27,4,70
+support-off,Chen,8 246,76,20,4
+support-off,Naga Siren,6 880,54,41,5
+support-off,Io,5 849,56,38,5
+core-mid,Zeus,46 394,8,91,1
+core-mid,Tinker,41 617,8,36,55
+core-mid,Bristleback,39 269,98,1,1
+core-mid,Techies,39 014,20,79,1
+core-mid,Necrophos,38 661,10,89,1
+core-mid,Lina,38 403,21,78,1
+core-mid,Sniper,37 398,58,40,1
+core-mid,Axe,36 889,42,2,57
+core-mid,Warlock,36 507,17,70,14
+core-mid,Razor,36 461,59,40,1
+core-mid,Leshrac,36 340,8,60,32
+core-mid,Dark Willow,36 324,31,67,1
+core-mid,Queen Of Pain,36 196,17,56,27
+core-mid,Timbersaw,35 653,11,9,80
+core-mid,Spectre,35 491,45,28,27
+core-mid,Sand King,35 404,24,74,1
+core-mid,Outworld Destroyer,35 242,24,38,38
+core-mid,Skywrath Mage,35 223,8,90,1
+core-mid,Gyrocopter,35 183,44,55,1
+core-mid,Arc Warden,35 046,60,39,1
+core-mid,Clockwerk,34 809,25,74,2
+core-mid,Witch Doctor,34 774,7,48,45
+core-mid,Bloodseeker,34 637,30,40,30
+core-mid,Venomancer,34 379,31,68,1
+core-mid,Nyx Assassin,34 298,15,64,21
+core-mid,Earthshaker,34 249,5,93,1
+core-mid,Muerta,34 200,26,73,1
+core-mid,Phoenix,34 044,21,78,1
+core-mid,Rubick,33 972,25,71,4
+core-mid,Pugna,33 958,5,93,1
+core-mid,Natures Prophet,33 917,45,54,1
+core-mid,Earth Spirit,33 894,24,75,2
+core-mid,Ember Spirit,33 826,59,40,1
+core-mid,Phantom Assassin,33 685,97,1,1
+core-mid,Legion Commander,33 649,56,42,2
+core-mid,Ursa,33 499,89,9,1
+core-mid,Clinkz,33 277,97,1,1
+core-mid,Death Prophet,33 067,47,52,1
+core-mid,Dark Seer,32 748,15,83,1
+core-mid,Wraith King,32 687,59,34,7
+core-mid,Viper,32 638,41,58,1
+core-mid,Ancient Apparition,32 588,30,68,1
+core-mid,Keeper of the Light,32 575,13,86,1
+core-mid,Lich,32 524,11,87,1
+core-mid,Kez,32 481,59,29,12
+core-mid,Hoodwink,32 430,66,32,1
+core-mid,Ogre Magi,32 404,19,80,1
+core-mid,Winter Wyvern,32 403,48,51,1
+core-mid,Lion,32 343,26,72,1
+core-mid,Medusa,32 311,53,46,1
+core-mid,Tiny,32 176,42,57,1
+core-mid,Elder Titan,31 886,81,17,2
+core-mid,Puck,31 877,35,64,1
+core-mid,Weaver,31 632,78,20,1
+core-mid,Bounty Hunter,31 586,47,51,1
+core-mid,Beastmaster,31 415,27,71,1
+core-mid,Enchantress,31 306,43,1,55
+core-mid,Snapfire,31 242,44,55,1
+core-mid,Luna,31 157,28,71,1
+core-mid,Centaur Warrunner,30 860,41,57,2
+core-mid,Kunkka,30 595,57,41,2
+core-mid,Primal Beast,30 374,23,75,2
+core-mid,Jakiro,30 247,14,85,2
+core-mid,Huskar,30 246,39,59,2
+core-mid,Juggernaut,30 169,61,37,2
+core-mid,Enigma,30 148,8,68,24
+core-mid,Bane,30 042,30,2,68
+core-mid,Grimstroke,29 994,14,85,2
+core-mid,Terrorblade,29 883,52,46,2
+core-mid,Silencer,29 882,39,59,2
+core-mid,Templar Assassin,29 838,85,3,12
+core-mid,Monkey King,29 644,91,7,2
+core-mid,Riki,29 620,68,31,2
+core-mid,Batrider,29 569,20,78,2
+core-mid,Drow Ranger,29 568,97,2,2
+core-mid,Invoker,29 496,44,46,10
+core-mid,Shadow Fiend,29 486,31,67,2
+core-mid,Void Spirit,29 471,37,61,2
+core-mid,Alchemist,29 433,75,24,2
+core-mid,Dawnbreaker,29 316,59,40,2
+core-mid,Oracle,29 211,18,80,2
+core-mid,Sven,28 933,65,33,2
+core-mid,Storm Spirit,28 923,46,53,2
+core-mid,Chaos Knight,28 750,87,12,2
+core-mid,Undying,28 662,55,43,2
+core-mid,Underlord,28 500,25,74,2
+core-mid,Pangolier,28 468,97,2,2
+core-mid,Vengeful Spirit,28 433,52,46,2
+core-mid,Windranger,28 233,55,44,2
+core-mid,Pudge,28 228,14,64,23
+core-mid,Dragon Knight,28 192,62,36,2
+core-mid,Phantom Lancer,27 899,69,29,2
+core-mid,Crystal Maiden,27 717,12,86,2
+core-mid,Shadow Demon,27 561,15,83,2
+core-mid,Abaddon,27 501,43,55,2
+core-mid,Marci,27 421,65,33,2
+core-mid,Tusk,27 173,63,35,2
+core-mid,Troll Warlord,27 161,78,20,2
+core-mid,Visage,26 968,59,39,2
+core-mid,Brewmaster,26 795,30,69,2
+core-mid,Spirit Breaker,26 741,37,61,2
+core-mid,Morphling,26 368,52,46,2
+core-mid,Anti Mage,26 315,69,29,2
+core-mid,Night Stalker,26 234,65,33,2
+core-mid,Mars,26 226,56,42,2
+core-mid,Lifestealer,25 882,70,28,2
+core-mid,Lycan,25 682,78,21,2
+core-mid,Tidehunter,25 677,62,36,2
+core-mid,Dazzle,25 596,96,2,2
+core-mid,Shadow Shaman,25 499,69,29,2
+core-mid,Io,25 459,23,75,2
+core-mid,Slark,25 082,79,20,2
+core-mid,Mirana,25 062,57,41,2
+core-mid,Slardar,25 028,96,2,2
+core-mid,Doom,25 014,28,55,17
+core-mid,Broodmother,24 661,67,31,2
+core-mid,Meepo,24 561,55,33,13
+core-mid,Ringmaster,24 496,13,86,2
+core-mid,Magnus,23 877,35,63,2
+core-mid,Omniknight,23 537,39,3,57
+core-mid,Disruptor,23 357,18,80,2
+core-mid,Lone Druid,22 069,27,71,2
+core-mid,Naga Siren,21 530,77,21,2
+core-mid,Faceless Void,20 662,58,40,2
+core-mid,Treant Protector,20 440,37,61,2
+core-mid,Chen,14 483,83,13,3

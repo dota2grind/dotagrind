@@ -1,0 +1,209 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    background-color: #131c21!important;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.search-container {
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+#searchInput {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.heroChart {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.heroCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 265px; /* Largeur fixe pour chaque carte */
+    text-align: center;
+    background-color: #1e1e1e; /* Optionnel : couleur de fond */
+    border-radius: 8px; /* Optionnel : bords arrondis */
+    padding: 10px;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optionnel : effet d'ombre */
+}
+
+.heroCard img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Optionnel : cercle pour les images */
+    margin-bottom: 10px;
+    object-fit: cover;
+}
+
+.position-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.position-btn {
+    background-color: #2a2a2a;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.position-btn.active {
+    transform: scale(1.1); /* Légère mise en avant */
+    border: 2px solid #ffffff;
+}
+
+.position-btn:hover {
+    background-color: #3e3e3e;
+}
+
+.position-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: white;
+}
+
+.item-section img {
+    height: 90px;
+    width:90px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    z-index: 10;
+}
+
+.heroCard canvas {
+    margin-top: 15px;
+    width: 150px !important; /* Fixer la largeur des graphiques */
+    height: 150px !important; /* Fixer la hauteur des graphiques */
+}
+
+.suggestions {
+    position: absolute;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    z-index: 1000;
+    width: 50%;
+    margin: 0 auto;
+    padding: 5px;
+    left: 25%; /* Centrer par rapport à la barre de recherche */
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background-color: #eee;
+}
+.heroes-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* 6 colonnes */
+    gap: 10px;
+    padding: 20px;
+    background-color: #131c21; /* Fond sombre pour le conteneur */
+    border-radius: 10px; /* Coins arrondis pour un design propre */
+}
+
+.hero {
+    background-color: #1e1e1e;
+    border: 1px solid #555;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.hero img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
+
+.hero:hover {
+    transform: scale(1.05);
+}
+
+.category h2 {
+    color: #ccc;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.row {
+    gap: 20px!important; /* Définit l'espacement entre les colonnes */
+  }
+
+.img-fluid {
+    max-width: 100%;
+    height: 100%!important;
+    object-fit: cover!important;
+}
+
+.container  img {
+    cursor: pointer!important;
+}
+
+.col-1 {
+    flex: 0 0 auto;
+    width: 10.333333%!important;
+}
+
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 2560px!important;
+    }
+}
+.col-6 {
+    width: 49.5%!important;
+}
+
+/* Effet lumineux avec pulsation */
+.glow-effect {
+    border-radius: 50%; /* Arrondir les bords */
+    box-shadow: 0 0 15px 5px rgba(255, 255, 0, 0.8);
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 10px 2px rgba(255, 255, 0, 0.8);
+        transform: scale(1); /* État initial */
+    }
+    50% {
+        box-shadow: 0 0 20px 10px rgba(255, 255, 0, 1);
+        transform: scale(1.05); /* Légère expansion */
+    }
+    100% {
+        box-shadow: 0 0 10px 2px rgba(255, 255, 0, 0.8);
+        transform: scale(1); /* Retour à la taille initiale */
+    }
+}
