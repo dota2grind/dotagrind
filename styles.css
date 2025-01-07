@@ -185,7 +185,7 @@ body {
     object-fit: cover!important;
 }
 
-.container  img {
+.container  .img-fluid {
     cursor: pointer!important;
 }
 
@@ -231,7 +231,10 @@ body {
     display: none;
 }
 
-
+#heroesGridForce, #heroesGridAgility, #heroesGridIntelligence, #heroesGridPolyvalence {
+    max-height: 500px; /* Ajustez cette valeur selon vos besoins */
+    overflow-y: auto;
+}
 
 
 /* Héros par défaut */
@@ -254,3 +257,5 @@ body {
     filter: none;
     opacity: 1;
 }
+
+
