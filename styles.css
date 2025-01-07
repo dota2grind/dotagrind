@@ -231,12 +231,6 @@ body {
     display: none;
 }
 
-#heroesGridForce, #heroesGridAgility, #heroesGridIntelligence, #heroesGridPolyvalence {
-    max-height: 500px; /* Ajustez cette valeur selon vos besoins */
-    overflow-y: auto;
-}
-
-
 /* Héros par défaut */
 .hero {
     transition: opacity 0.3s ease, transform 0.3s ease;
@@ -256,6 +250,7 @@ body {
 .img-fluid.highlight {
     filter: none;
     opacity: 1;
+    box-shadow: 0 0 15px 8px rgba(15, 133, 133, 0.8);
 }
 
 
