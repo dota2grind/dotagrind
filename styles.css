@@ -80,8 +80,26 @@ body {
 }
 
 .item-section img {
-    height: 90px;
-    width:90px;
+    height: 100px;
+    width: 100px;
+}
+
+.item-image {
+    width: 50px;
+    height: 50px;
+    border: 2px dashed #ccc; /* Bordure en pointillé */
+    border-radius: 50%; /* Coins légèrement arrondis */
+    cursor: grab; /* Indicateur de glissement */
+    transition: border-color 0.3s ease; /* Transition fluide pour les changements de couleur */
+}
+
+.item-image:active {
+    cursor: grabbing; /* Curseur pendant le drag */
+    border-color: #66b5ab; /* Changer la couleur de la bordure pendant le drag */
+}
+
+.item-image:hover {
+    border-color: #777; /* Changer la couleur de la bordure au survol */
 }
 
 .close-btn {
@@ -206,4 +224,33 @@ body {
         box-shadow: 0 0 10px 2px rgba(255, 255, 0, 0.8);
         transform: scale(1); /* Retour à la taille initiale */
     }
+}
+
+
+.hidden {
+    display: none;
+}
+
+
+
+
+/* Héros par défaut */
+.hero {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.img-fluid {
+    filter: none;
+    opacity: 1;
+    transition: filter 0.3s, opacity 0.3s;
+}
+
+.img-fluid.dimmed {
+    filter: grayscale(100%);
+    opacity: 0.5;
+}
+
+.img-fluid.highlight {
+    filter: none;
+    opacity: 1;
 }
