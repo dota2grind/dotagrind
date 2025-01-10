@@ -2,6 +2,7 @@ Hero,Position,Matches
 Abaddon,support-safe,2605
 Alchemist,core-safe,9611
 Ancient_apparition,support-safe,873
+Anti_mage,core-safe,4108
 Arc_warden,core-mid,404
 Axe,core-off,3039
 Bane,support-safe,606
@@ -62,7 +63,7 @@ Mirana,support-off,405
 Monkey_king,core-mid,2582
 Morphling,core-safe,8815
 Naga_siren,core-safe,146
-Nature's_prophet,core-safe,583
+Natures_prophet,core-safe,583
 Necrophos,core-mid,567
 Night_stalker,core-off,4638
 Nyx_assassin,support-off,6456
