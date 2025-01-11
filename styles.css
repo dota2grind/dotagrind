@@ -5,6 +5,9 @@ body {
     color: white;
     margin: 0;
     padding: 0;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden; /* Évite les débordements horizontaux */
 }
 
 .search-container {
@@ -189,10 +192,6 @@ body {
     cursor: pointer!important;
 }
 
-.col-1 {
-    flex: 0 0 auto;
-    width: 10.333333%!important;
-}
 
 
 @media (min-width: 1400px) {
@@ -200,9 +199,7 @@ body {
         max-width: 2560px!important;
     }
 }
-.col-6 {
-    width: 49.5%!important;
-}
+
 
 /* Effet lumineux avec pulsation */
 .glow-effect {
