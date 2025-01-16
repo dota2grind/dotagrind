@@ -28,7 +28,7 @@
 
 <body>
     <div class="container">
-        <div id="search-overlay" style="display: none; position: fixed; top: 1%; left: 50%; transform: translateX(-50%); font-size: 48px; color: white; background: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 5px;"></div>
+        <div id="search-overlay" style="display: none; position: fixed; top: 1%; z-index: 999; left: 50%; transform: translateX(-50%); font-size: 48px; color: white; background: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 5px;"></div>
 
         <div class="row" style="display: none;">
             <div class="col-12">
@@ -38,31 +38,32 @@
         </div>
         <div class="row ">
             <div class="col-1"></div>
-            <div class="col-5">
+            <div class="col-4">
                 <div class="category">
-                    <h2 class="text-center">Force</h2>
+                    <h4 class="text-center">Force</h4>
                     <div id="heroesGridForce" class="row"></div>
                 </div>
             </div>
-            <div class="col-5">
+            <div class="col-1-5"></div>
+            <div class="col-4">
                 <div class="category">
-                    <h2 class="text-center">Agilité</h2>
+                    <h4 class="text-center">Agilité</h4>
                     <div id="heroesGridAgility" class="row"></div>
                 </div>
             </div>
         </div>
         <div class="row mt-3">
             <div class="col-1"></div>
-            <div class="col-5">
+            <div class="col-4">
                 <div class="category">
-                    <h2 class="text-center">Intelligence</h2>
+                    <h4 class="text-center">Intelligence</h4>
                     <div id="heroesGridIntelligence" class="row"></div>
                 </div>
             </div>
-            
-            <div class="col-5">
+            <div class="col-1-5"></div>
+            <div class="col-4">
                 <div class="category">
-                    <h2 class="text-center">Polyvalence</h2>
+                    <h4 class="text-center">Polyvalence</h4>
                     <div id="heroesGridPolyvalence" class="row"></div>
                 </div>
             </div>
@@ -70,13 +71,13 @@
         <div class="container-fluid mt-4">
             <div class="row ">
                 <div class="col-1"></div>
-                <div class="col-7 px-0 pt-3">
-                    <div id="teamStats" class="d-flex flex-wrap gap-3 ">
+                <div class="col-7 px-0 ">
+                    <div id="teamStats" class="row">
                         <!-- Les graphiques individuels des héros seront insérés ici -->
                     </div>
                 </div>
                 <div class="col-3">
-                    <div id="globalStats" class="heroChart text-center" style="height: 500px;">
+                    <div id="globalStats" class="heroChart text-center" style="height: 400px;">
                         <!-- Le graphique global sera inséré ici -->
                     </div>
                 </div>

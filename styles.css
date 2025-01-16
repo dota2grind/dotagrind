@@ -37,7 +37,7 @@ body {
     text-align: center;
     background-color: #1e1e1e; /* Optionnel : couleur de fond */
     border-radius: 8px; /* Optionnel : bords arrondis */
-    padding: 10px;
+    padding: 0px 10px;
     position: relative;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optionnel : effet d'ombre */
 }
@@ -47,7 +47,7 @@ body {
     height: 100px;
     border-radius: 50%; /* Optionnel : cercle pour les images */
     margin-bottom: 10px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .position-buttons {
@@ -77,14 +77,33 @@ body {
 }
 
 .position-btn svg {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     fill: white;
 }
 
 .item-section img {
-    height: 100px;
-    width: 100px;
+    height: 40%;
+    width: 40%;
+}
+
+.item-section {
+    display: flex;            /* Active Flexbox */
+    flex-wrap: wrap;          /* Permet aux éléments de passer à la ligne si nécessaire */
+    justify-content: space-between; /* Distribue les items uniformément avec des espaces entre eux */
+  }
+  
+  
+  .item-image {
+    flex: 0 0 calc(48% - 4%); /* Largeur de 48% moins l'espacement (gap) */
+    max-width: 48%;           /* Empêche les images de dépasser leur conteneur */
+    margin-bottom: 4%;        /* Espace en dessous pour les lignes */
+    box-sizing: border-box;   /* Inclut le padding/border dans la largeur totale */
+  }
+
+.col-1-5 {
+    flex: 0 0 auto;
+    width: 5%!important;
 }
 
 .item-image {
@@ -117,9 +136,9 @@ body {
 }
 
 .heroCard canvas {
-    margin-top: 15px;
-    width: 150px !important; /* Fixer la largeur des graphiques */
-    height: 150px !important; /* Fixer la hauteur des graphiques */
+    margin-top: 5px;
+    width: 100px !important; /* Fixer la largeur des graphiques */
+    height: 100px !important; /* Fixer la hauteur des graphiques */
 }
 
 .suggestions {
@@ -172,10 +191,10 @@ body {
     transform: scale(1.05);
 }
 
-.category h2 {
+.category h4 {
     color: #ccc;
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .row {
@@ -204,21 +223,21 @@ body {
 /* Effet lumineux avec pulsation */
 .glow-effect {
     border-radius: 50%; /* Arrondir les bords */
-    box-shadow: 0 0 15px 5px rgba(255, 255, 0, 0.8);
-    animation: pulse 1.5s infinite;
+    box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
+    animation: pulse 2s infinite;
 }
 
 @keyframes pulse {
     0% {
-        box-shadow: 0 0 10px 2px rgba(255, 255, 0, 0.8);
+        box-shadow: 0 0 5px 2px rgba(255, 255, 0, 0.5);
         transform: scale(1); /* État initial */
     }
     50% {
-        box-shadow: 0 0 20px 10px rgba(255, 255, 0, 1);
+        box-shadow: 0 0 15px 10px rgba(255, 255, 0, 0.8);
         transform: scale(1.05); /* Légère expansion */
     }
     100% {
-        box-shadow: 0 0 10px 2px rgba(255, 255, 0, 0.8);
+        box-shadow: 0 0 15px 2px rgba(255, 255, 0, 0.5);
         transform: scale(1); /* Retour à la taille initiale */
     }
 }
