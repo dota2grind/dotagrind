@@ -109,7 +109,6 @@ body {
 .item-image {
     width: 50px;
     height: 50px;
-    border: 2px dashed #ccc; /* Bordure en pointillé */
     border-radius: 50%; /* Coins légèrement arrondis */
     cursor: grab; /* Indicateur de glissement */
     transition: border-color 0.3s ease; /* Transition fluide pour les changements de couleur */
@@ -285,4 +284,100 @@ body {
         box-shadow: 0 0 15px 8px rgba(15, 133, 133, 0.8);
         filter: brightness(1); /* Retour à la luminosité normale */
     }
+}
+
+#item-picker-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1a1a1a;
+    padding: 10px;
+    overflow-x: auto;
+    white-space: nowrap;
+    border-top: 1px solid #444;
+    z-index: 9999;
+    display: flex; /* ➕ AFFICHER EN LIGNE */
+    gap: 32px;     /* ➕ ESPACE ENTRE GROUPES */
+    align-items: flex-start; /* Pour aligner proprement les labels et les items */
+  }
+  
+  .group-inline {
+    flex-direction: column;
+    align-items: center;
+    min-width: max-content;
+  }
+  
+  .group-label {
+    font-size: 12px;
+    color: white;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+  }
+  
+  .item-icon {
+    width: 48px;
+    height: 48px;
+    margin: 2px;
+    border-radius: 6px;
+    background-color: #222;
+    padding: 4px;
+    transition: transform 0.2s;
+  }
+  
+  .item-icon:hover {
+    transform: scale(1.1);
+    background-color: #333;
+  }
+
+  .item-image.being-dragged {
+    opacity: 0.5;
+    filter: grayscale(100%);
+}
+
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+.shake {
+    animation: shake 0.3s;
+}
+
+
+#exportItemsBtn, #resetBtn {
+
+    background: #ff6666;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: background 0.3s;
+}
+
+#exportItemsBtn {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+}
+
+
+#resetBtn {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+}
+
+#exportItemsBtn:hover {
+    background: #ff4444;
 }
