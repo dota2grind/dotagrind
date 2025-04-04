@@ -388,3 +388,7 @@ body {
 #exportItemsBtn:hover {
     background: #ff4444;
 }
+
+.col-1-custom {
+    width: 7.333333%!important;
+}
