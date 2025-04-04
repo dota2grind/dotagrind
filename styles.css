@@ -220,9 +220,16 @@ body {
 
 
 /* Effet lumineux avec pulsation */
-.glow-effect {
-    border-radius: 50%; /* Arrondir les bords */
-    box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
+.glow-effect-yellow {
+    border-radius: 50%!important;
+    box-shadow: 0 0 8px 4px rgba(255, 255, 0, 0.4)!important;
+    animation: pulse 2s infinite;
+}
+
+/* Glow rouge intense (3+ occurences) */
+.glow-effect-red {
+    border-radius: 50%!important;
+    box-shadow: 0 0 12px 6px rgba(255, 0, 0, 0.4)!important;
     animation: pulse 2s infinite;
 }
 
