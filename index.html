@@ -28,8 +28,8 @@
 
 <body>
     <div class="container">
-        <button id="exportItemsBtn">Export JSON</button>
-        <button id="resetBtn" >
+        <button id="exportItemsBtn" style="display: none;">Export JSON</button>
+        <button id="resetBtn" style="display: none;">
             Réinitialiser des suggestions 
           </button>
         <div id="search-overlay" style="display: none; position: fixed; top: 1%; z-index: 999; left: 50%; transform: translateX(-50%); font-size: 48px; color: white; background: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 5px;"></div>
@@ -44,14 +44,14 @@
             <div class="col-1"></div>
             <div class="col-4">
                 <div class="category">
-                    <h4 class="text-center">Force</h4>
+                    <h4 class="text-center">Strength</h4>
                     <div id="heroesGridForce" class="row"></div>
                 </div>
             </div>
             <div class="col-1-5"></div>
             <div class="col-4">
                 <div class="category">
-                    <h4 class="text-center">Agilité</h4>
+                    <h4 class="text-center">Agility</h4>
                     <div id="heroesGridAgility" class="row"></div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
             <div class="col-1-5"></div>
             <div class="col-4">
                 <div class="category">
-                    <h4 class="text-center">Polyvalence</h4>
+                    <h4 class="text-center">Universal</h4>
                     <div id="heroesGridPolyvalence" class="row"></div>
                 </div>
             </div>
